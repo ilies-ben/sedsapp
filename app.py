@@ -69,6 +69,10 @@ def display_simulation():
                 time.sleep(2)  # Pause de 2 secondes entre chaque cycle
     for process in process_list:
        st.write(process)
+    st.title("Evaluation:")
+    st.write("Polynomial regression: R²= 0.817 , RMSE=8.947 ")
+    st.write("Simple regression R²= 0.731 ,RMSE=9.739")
+    st.write("K-means : Davies-Bouldin = 0.741 ")
 def main():
     st.title("SEDS Project Application Streamlit")
 
@@ -87,9 +91,7 @@ def main():
         display_simulation()
     else:
         st.write("Sélectionnez une option valide dans la barre latérale.")
-    st.subheader("Polynomial regression")
-    st.write("Simple regression")
-    st.write("K-means : ")
+
 
 def display_ml_slides():
     st.header("Présentation de théme")
