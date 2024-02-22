@@ -1,0 +1,82 @@
+Processus,Consommation RAM lancement,Consommation processeur lancement,Type
+Google Chrome,200,50,A
+Firefox,200,25,A
+Microsoft Edge,150,25,B
+Spotify,150,10,B
+VLC Media Player,150,10,B
+Steam,200,50,A
+Office 365,200,50,A
+Adobe Photoshop,300,75,E
+Adobe Illustrator,300,75,E
+Notepad,10,1,
+Calculator,10,1,
+Command Prompt,10,1,
+Disk Management,10,1,
+Windows Defender,10,1,
+Microsoft Teams,250,20,B
+Slack,200,15,B
+Windows Explorer,20,2,
+Windows Search,20,2,
+Windows Store,20,2,
+Windows Update,20,2,
+7-Zip,100,10,B
+Audacity,150,20,B
+Blender,250,30,C
+CCleaner,100,15,B
+Chrome DevTools,150,25,B
+Discord,150,15,B
+Eclipse,200,25,C
+Firefox DevTools,150,25,B
+GIMP,250,30,C
+Inkscape,200,25,C
+IntelliJ IDEA,250,30,C
+LibreOffice,200,25,C
+Microsoft Visual Studio,300,35,C
+MySQL Workbench,250,30,C
+Notepad++,100,15,B
+Adobe Premiere Pro,1000,5,C
+Autodesk Maya,2000,10,C
+Blender,4000,20,E
+Cisco Webex,200,25,B
+Blender,4000,20,E
+Cisco Webex,200,25,B
+Spotify,250,15,B
+VLC Media Player,1000,75,E
+Microsoft Office ,1000,25,C
+Google Chrome ,500,25,C
+Firefox,500,25,C
+Microsoft Edge ,500,25,C
+Steam,2000,50,C
+Adobe Photoshop,3000,75,E
+Adobe Illustrator,3000,75,E
+Notepad,50,1,A
+Calculator,50,1,A
+Command Prompt,50,1,A
+Disk Management,50,1,A
+Windows Defender,50,1,A
+Microsoft Teams,250,20,B
+Slack,200,15,B
+Zoom,250,20,B
+Adobe After Effects,2000,10,C
+Autodesk AutoCAD,3000,15,C
+InDesign,2000,10,C
+Photoshop Elements,1000,5,C
+Illustrator Elements,1000,5,C
+Microsoft Flight Simulator,8000,50,E
+Microsoft Teams,250,20,B
+Slack,200,15,B
+Grand Theft Auto V,6000,30,E
+The Witcher 3: Wild Hunt,8000,40,E
+oo,40,,B
+Adobe Premiere Rush,1000,5,C
+Adobe Photoshop Lightroom,1000,5,C
+Adobe Illustrator Draw,500,2,C
+Notepad++,1000,5,C
+Calculator,1000,5,C
+Disk Management,50,1,A
+Windows Defender,50,1,A
+
+
+
+
+
