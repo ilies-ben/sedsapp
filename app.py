@@ -70,8 +70,8 @@ def display_simulation():
     for process in process_list:
        st.write(process)
     st.title("Evaluation:")
-    st.write("Polynomial regression: R²= 0.817 , RMSE=8.947 ")
-    st.write("Simple regression R²= 0.731 ,RMSE=9.739")
+    st.write("Régression polynomiale: R²= 0.817 , RMSE=8.947 ")
+    st.write("Régression linéaire R²= 0.731 ,RMSE=9.739")
     st.write("K-means : Davies-Bouldin = 0.741 ")
 def main():
     st.title("SEDS Project Application Streamlit")
